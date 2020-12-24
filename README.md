@@ -11,4 +11,4 @@ parch|	同乗した親や子の数
 ticket|	チッケット番号	|
 fare	| 旅客運賃	|
 cabin	| 船室番号	|
-embarked	|　乗船港	|C = Cherbourg (仏・シェルブール), Q = Queenstown, S = Southampton
+embarked	| 乗船港	|C = Cherbourg (仏・シェルブール), Q = Queenstown, S = Southampton
