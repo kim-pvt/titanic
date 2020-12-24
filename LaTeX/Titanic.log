@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.5.2)  24 DEC 2020 23:36
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.5.2)  24 DEC 2020 23:53
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Titanic.tex
@@ -1188,9 +1188,14 @@ Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 Package hyperref Info: Option `breaklinks' set `true' on input line 368.
 Package hyperref Info: Option `colorlinks' set `true' on input line 368.
 
-No file Titanic.aux.
+(./Titanic.aux
 
+LaTeX Warning: Label `ux91cfux7684ux5909ux6570100ux7a4dux307fux4e0aux3052ux68d2u
+x30b0ux30e9ux30d5' multiply defined.
+
+)
 \openout1 = Titanic.aux
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 375.
 LaTeX Font Info:    ... okay on input line 375.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 375.
@@ -1202,7 +1207,7 @@ LaTeX Font Info:    ... okay on input line 375.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 375.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 37
 5.
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 375.
@@ -1366,6 +1371,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 375.
 LaTeX Info: Redefining \pageref on input line 375.
 LaTeX Info: Redefining \nameref on input line 375.
+ (./Titanic.out) (./Titanic.out)
 \@outlinefile=\write7
 
 \openout7 = Titanic.out
@@ -1385,7 +1391,8 @@ LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 (Font)              scaled to size 5.54828pt on input line 377.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 377.
 
- (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 377.
@@ -1403,14 +1410,28 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 
 LaTeX Warning: No \author given.
 
-LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 383.
-LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 383.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 383.
+(Font)              scaled to size 9.24713pt on input line 379.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 383.
+(Font)              scaled to size 9.24713pt on input line 379.
+LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 379.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 379.
+LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 379.
+LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
+(Font)              scaled to size 13.31586pt on input line 379.
+(./Titanic.toc
+LaTeX Font Info:    Calculating math sizes for size <9.12994> on input line 2.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 6.47296pt on input line 2.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 4.62357pt on input line 2.
+)
+\tf@toc=\write8
+
+\openout8 = Titanic.toc
 
 Overfull \hbox (119.49788pt too wide) in paragraph at lines 385--386
 []\TU/lmr/m/n/9.12994 https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%82%BF%
@@ -1423,13 +1444,7 @@ Overfull \hbox (268.46205pt too wide) in paragraph at lines 387--388
 E3%83%8B%E3%83%83%E3%82%AF%E5%8F%B7%E6%B2%88%E6%B2%A1%E4%BA%8B%E6%95%85 
  []
 
-LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 390.
-LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 390.
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 391.
-LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
 (Font)              scaled to size 4.62357pt on input line 391.
 LaTeX Font Info:    Calculating math sizes for size <4.56497> on input line 391.
 
@@ -1479,19 +1494,14 @@ LaTeX Font Info:    Font shape `JY3/gt/b/n' in size <10> not available
 (Font)              Font shape `JY3/gt/m/n' tried instead on input line 392.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
 (Font)              scaled to size 10.12836pt on input line 392.
-<output_3_0.jpg, id=7, 481.8pt x 361.35pt>
+<output_3_0.jpg, id=107, 481.8pt x 361.35pt>
 File: output_3_0.jpg Graphic file (type jpg)
 <use output_3_0.jpg>
 Package luatex.def Info: output_3_0.jpg  used on input line 401.
 (luatex.def)             Requested size: 481.79881pt x 361.34912pt.
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 1 on input line 423.
-
 [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./output_
-3_0.jpg>]
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
 (Font)              scaled to size 11.09656pt on input line 426.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
@@ -1504,33 +1514,32 @@ LaTeX Font Info:    Font shape `JY3/gt/m/it' in size <10> not available
 (Font)              Font shape `JY3/gt/m/n' tried instead on input line 437.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
 (Font)              scaled to size 10.12836pt on input line 437.
- [2] [3] [4] [5]
-<output_33_0.png, id=57, 859.21pt x 739.76375pt>
+
+[2<./output_3_0.jpg>] [3] [4] [5] [6]
+<output_33_0.png, id=159, 859.21pt x 739.76375pt>
 File: output_33_0.png Graphic file (type png)
 <use output_33_0.png>
 Package luatex.def Info: output_33_0.png  used on input line 790.
 (luatex.def)             Requested size: 859.20792pt x 739.76193pt.
- [6]
-<output_35_0.png, id=66, 859.21pt x 711.65875pt>
+ [7<./output_33_0.png>]
+<output_35_0.png, id=166, 859.21pt x 711.65875pt>
 File: output_35_0.png Graphic file (type png)
 <use output_35_0.png>
 Package luatex.def Info: output_35_0.png  used on input line 815.
 (luatex.def)             Requested size: 859.20792pt x 711.65701pt.
- [7<./output_33_0.png>]
-<output_38_0.png, id=74, 835.12pt x 749.80125pt>
+ [8<./output_35_0.png>]
+<output_38_0.png, id=174, 835.12pt x 749.80125pt>
 File: output_38_0.png Graphic file (type png)
 <use output_38_0.png>
 Package luatex.def Info: output_38_0.png  used on input line 844.
 (luatex.def)             Requested size: 835.11795pt x 749.79942pt.
- [8<./output_35_0.png>]
-<output_40_0.png, id=84, 836.12375pt x 749.80125pt>
+<output_40_0.png, id=175, 836.12375pt x 749.80125pt>
 File: output_40_0.png Graphic file (type png)
 <use output_40_0.png>
 Package luatex.def Info: output_40_0.png  used on input line 870.
 (luatex.def)             Requested size: 836.1217pt x 749.79942pt.
-
-[9<./output_38_0.png>]
-<output_42_0.png, id=92, 859.21pt x 711.65875pt>
+ [9<./output_38_0.png>]
+<output_42_0.png, id=182, 859.21pt x 711.65875pt>
 File: output_42_0.png Graphic file (type png)
 <use output_42_0.png>
 Package luatex.def Info: output_42_0.png  used on input line 895.
@@ -1538,84 +1547,76 @@ Package luatex.def Info: output_42_0.png  used on input line 895.
  [10<./output_40_0.png>]
 warning  (pdf backend): ignoring duplicate destination with the name 'ux91cfux76
 84ux5909ux6570100ux7a4dux307fux4e0aux3052ux68d2ux30b0ux30e9ux30d5'
-<output_44_0.png, id=100, 859.21pt x 711.65875pt>
+<output_44_0.png, id=189, 859.21pt x 711.65875pt>
 File: output_44_0.png Graphic file (type png)
 <use output_44_0.png>
 Package luatex.def Info: output_44_0.png  used on input line 920.
 (luatex.def)             Requested size: 859.20792pt x 711.65701pt.
 [11<./output_42_0.png>]
-<output_46_0.png, id=108, 530.98375pt x 376.40625pt>
+<output_46_0.png, id=196, 530.98375pt x 376.40625pt>
 File: output_46_0.png Graphic file (type png)
 <use output_46_0.png>
 Package luatex.def Info: output_46_0.png  used on input line 940.
 (luatex.def)             Requested size: 530.98244pt x 376.40532pt.
  [12<./output_44_0.png>]
-<output_48_1.png, id=116, 816.04875pt x 711.65875pt>
+<output_48_1.png, id=203, 816.04875pt x 711.65875pt>
 File: output_48_1.png Graphic file (type png)
 <use output_48_1.png>
 Package luatex.def Info: output_48_1.png  used on input line 962.
 (luatex.def)             Requested size: 816.04677pt x 711.65701pt.
  [13<./output_46_0.png>]
-<output_50_0.png, id=124, 491.8375pt x 391.4625pt>
+<output_50_0.png, id=210, 491.8375pt x 391.4625pt>
 File: output_50_0.png Graphic file (type png)
 <use output_50_0.png>
 Package luatex.def Info: output_50_0.png  used on input line 981.
 (luatex.def)             Requested size: 491.83629pt x 391.46153pt.
 
 [14<./output_48_1.png>] [15<./output_50_0.png>]
-
-Package longtable Warning: Table widths have changed. Rerun LaTeX.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1008.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 1008.
-(./Titanic.aux)
+ (./Titanic.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1008.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1008.
+Package rerunfilecheck Info: File `Titanic.out' has not changed.
+(rerunfilecheck)             Checksum: 282B03629B3D836AAA4228B1E3D122D6;2211.
 
-
-Package rerunfilecheck Warning: File `Titanic.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Titanic.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  282B03629B3D836AAA4228B1E3D122D6;2211.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.5pt have occurred.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 28545 strings out of 481089
- 932684,953878 words of node,token memory allocated
- 21938 words of node memory still in use:
-   10 hlist, 2 vlist, 5 rule, 2 glue, 243 kern, 1 glyph, 6029 attribute, 1489 gl
-ue_spec, 347 attribute_list, 2 write, 70 user_defined nodes
-   avail lists: 1:39,2:171081,3:2882,4:27243,5:6455,6:93,7:19937,8:17,9:10638,10
-:58,11:2454
- 44820 multiletter control sequences out of 65536+600000
- 91 fonts using 60449171 bytes
- 71i,7n,99p,1192b,633s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 28621 strings out of 481089
+ 932668,953878 words of node,token memory allocated
+ 23212 words of node memory still in use:
+   10 hlist, 2 vlist, 5 rule, 2 glue, 253 kern, 1 glyph, 6405 attribute, 1569 gl
+ue_spec, 369 attribute_list, 2 write, 77 user_defined nodes
+   avail lists: 1:39,2:215468,3:2833,4:26064,5:6144,6:115,7:19908,8:49,9:10423,1
+0:58,11:2384
+ 44871 multiletter control sequences out of 65536+600000
+ 108 fonts using 65325723 bytes
+ 71i,7n,99p,1192b,642s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono10-italic.otf
 ></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmonolt10-bold.ot
 f></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.
-otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmroman10-regul
-ar.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/haranoaji/Haran
-oAjiGothic-Medium.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/
-lm/lmsans12-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/publi
-c/haranoaji/HaranoAjiMincho-Regular.otf></usr/local/texlive/2020/texmf-dist/font
-s/opentype/public/lm/lmroman12-regular.otf></usr/local/texlive/2020/texmf-dist/f
-onts/opentype/public/lm/lmroman17-regular.otf></usr/local/texlive/2020/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2020/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy5.pfb>
-Output written on Titanic.pdf (15 pages, 514781 bytes).
+otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmsans12-regula
+r.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmroman10-reg
+ular.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmsans10-r
+egular.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/haranoaji/H
+aranoAjiGothic-Medium.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/pub
+lic/haranoaji/HaranoAjiMincho-Regular.otf></usr/local/texlive/2020/texmf-dist/fo
+nts/opentype/public/lm/lmroman12-regular.otf></usr/local/texlive/2020/texmf-dist
+/fonts/opentype/public/lm/lmroman17-regular.otf></usr/local/texlive/2020/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2020/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy5.pfb>
+Output written on Titanic.pdf (15 pages, 527252 bytes).
 
-PDF statistics: 207 PDF objects out of 1000 (max. 8388607)
- 140 compressed objects within 2 object streams
- 56 named destinations out of 1000 (max. 131072)
- 16 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 298 PDF objects out of 1000 (max. 8388607)
+ 227 compressed objects within 3 object streams
+ 57 named destinations out of 1000 (max. 131072)
+ 176 words of extra memory for PDF output out of 10000 (max. 100000000)
 
