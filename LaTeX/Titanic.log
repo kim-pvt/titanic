@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.5.2)  25 DEC 2020 13:50
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.5.2)  25 DEC 2020 14:35
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Titanic.tex
@@ -1534,19 +1534,19 @@ LaTeX Font Info:    Font shape `JY3/gt/m/it' in size <10> not available
 (Font)              Font shape `JY3/gt/m/n' tried instead on input line 462.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
 (Font)              scaled to size 10.12836pt on input line 462.
-<map.png, id=104, 1289.81876pt x 773.89125pt>
+<map.png, id=105, 1289.81876pt x 773.89125pt>
 File: map.png Graphic file (type png)
 <use map.png>
 Package luatex.def Info: map.png  used on input line 481.
 (luatex.def)             Requested size: 1289.81561pt x 773.88936pt.
  [3] [4<./map.png>] [5] [6] [7]
-<output_43_0.png, id=138, 859.21pt x 669.50125pt>
+<output_43_0.png, id=140, 859.21pt x 669.50125pt>
 File: output_43_0.png Graphic file (type png)
 <use output_43_0.png>
 Package luatex.def Info: output_43_0.png  used on input line 823.
 (luatex.def)             Requested size: 859.20792pt x 669.49962pt.
  [8] [9<./output_43_0.png>]
-<output_48_0.png, id=162, 859.21pt x 711.65875pt>
+<output_48_0.png, id=164, 859.21pt x 711.65875pt>
 File: output_48_0.png Graphic file (type png)
 <use output_48_0.png>
 Package luatex.def Info: output_48_0.png  used on input line 876.
@@ -1554,7 +1554,7 @@ Package luatex.def Info: output_48_0.png  used on input line 876.
  [10<./output_48_0.png>]
 warning  (pdf backend): ignoring duplicate destination with the name 'ux8ceaux76
 84ux5909ux6570'
-<output_53_0.png, id=168, 835.12pt x 749.80125pt>
+<output_53_0.png, id=170, 835.12pt x 749.80125pt>
 File: output_53_0.png Graphic file (type png)
 <use output_53_0.png>
 Package luatex.def Info: output_53_0.png  used on input line 910.
@@ -1563,7 +1563,7 @@ Package luatex.def Info: output_53_0.png  used on input line 910.
 warning  (pdf backend): ignoring duplicate destination with the name 'ux7a4dux30
 7fux4e0aux3052ux68d2ux30b0ux30e9ux30d5'
 <./output_53_0.png>]
-<output_55_0.png, id=178, 836.12375pt x 749.80125pt>
+<output_55_0.png, id=180, 836.12375pt x 749.80125pt>
 File: output_55_0.png Graphic file (type png)
 <use output_55_0.png>
 Package luatex.def Info: output_55_0.png  used on input line 936.
@@ -1575,54 +1575,54 @@ warning  (pdf backend): ignoring duplicate destination with the name 'ux91cfux76
 warning  (pdf backend): ignoring duplicate destination with the name 'ux30d2ux30
 b9ux30c8ux30b0ux30e9ux30e0'
 [12<./output_55_0.png>]
-<output_58_0.png, id=185, 859.21pt x 711.65875pt>
+<output_58_0.png, id=187, 859.21pt x 711.65875pt>
 File: output_58_0.png Graphic file (type png)
 <use output_58_0.png>
 Package luatex.def Info: output_58_0.png  used on input line 963.
 (luatex.def)             Requested size: 859.20792pt x 711.65701pt.
  [13<./output_58_0.png>]
-<output_60_0.png, id=194, 859.21pt x 711.65875pt>
+<output_60_0.png, id=196, 859.21pt x 711.65875pt>
 File: output_60_0.png Graphic file (type png)
 <use output_60_0.png>
 Package luatex.def Info: output_60_0.png  used on input line 987.
 (luatex.def)             Requested size: 859.20792pt x 711.65701pt.
-<output_62_0.png, id=195, 530.98375pt x 366.36874pt>
+<output_62_0.png, id=197, 530.98375pt x 366.36874pt>
 File: output_62_0.png Graphic file (type png)
 <use output_62_0.png>
 Package luatex.def Info: output_62_0.png  used on input line 1008.
 (luatex.def)             Requested size: 530.98244pt x 366.36784pt.
  [14<./output_60_0.png>]
-<output_63_0.png, id=203, 530.98375pt x 412.54124pt>
+<output_63_0.png, id=205, 530.98375pt x 412.54124pt>
 File: output_63_0.png Graphic file (type png)
 <use output_63_0.png>
 Package luatex.def Info: output_63_0.png  used on input line 1026.
 (luatex.def)             Requested size: 530.98244pt x 412.54024pt.
 
 [15<./output_62_0.png>]
-<output_65_0.png, id=209, 816.04875pt x 738.76pt>
+<output_65_0.png, id=211, 816.04875pt x 738.76pt>
 File: output_65_0.png Graphic file (type png)
 <use output_65_0.png>
 Package luatex.def Info: output_65_0.png  used on input line 1043.
 (luatex.def)             Requested size: 816.04677pt x 738.75818pt.
  [16<./output_63_0.png>]
-<output_67_0.png, id=217, 491.8375pt x 391.4625pt>
+<output_67_0.png, id=219, 491.8375pt x 391.4625pt>
 File: output_67_0.png Graphic file (type png)
 <use output_67_0.png>
 Package luatex.def Info: output_67_0.png  used on input line 1062.
 (luatex.def)             Requested size: 491.83629pt x 391.46153pt.
  [17<./output_65_0.png>]
-<newplot.png, id=225, 702.625pt x 451.6875pt>
+<newplot.png, id=227, 702.625pt x 451.6875pt>
 File: newplot.png Graphic file (type png)
 <use newplot.png>
 Package luatex.def Info: newplot.png  used on input line 1087.
 (luatex.def)             Requested size: 702.62328pt x 451.68639pt.
 
 [18<./output_67_0.png>] [19<./newplot.png>] [20]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1107.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1107.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1110.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1110.
  (./Titanic.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1107.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1107.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1110.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1110.
 Package rerunfilecheck Info: File `Titanic.out' has not changed.
 (rerunfilecheck)             Checksum: 717CEE63F6758FB7575143C82BBDA181;1299.
 
@@ -1636,14 +1636,14 @@ LaTeX Warning: There were multiply-defined labels.
 )
 
 Here is how much of LuaTeX's memory you used:
- 28686 strings out of 481089
- 932688,953878 words of node,token memory allocated
- 25217 words of node memory still in use:
-   10 hlist, 2 vlist, 5 rule, 2 glue, 269 kern, 1 glyph, 6840 attribute, 1758 gl
-ue_spec, 396 attribute_list, 2 write, 91 user_defined nodes
-   avail lists: 1:31,2:172748,3:2772,4:27843,5:6556,6:100,7:20513,8:42,9:10927,1
+ 28688 strings out of 481089
+ 932674,953878 words of node,token memory allocated
+ 25326 words of node memory still in use:
+   10 hlist, 2 vlist, 5 rule, 3 glue, 269 kern, 1 glyph, 6872 attribute, 1764 gl
+ue_spec, 398 attribute_list, 2 write, 92 user_defined nodes
+   avail lists: 1:31,2:172734,3:2772,4:27842,5:6550,6:100,7:20513,8:44,9:10927,1
 0:60,11:2532
- 44903 multiletter control sequences out of 65536+600000
+ 44904 multiletter control sequences out of 65536+600000
  114 fonts using 77054635 bytes
  71i,7n,99p,1192b,642s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono10-italic.otf
@@ -1658,10 +1658,10 @@ blic/lm/lmroman12-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype
 /public/haranoaji/HaranoAjiGothic-Medium.otf></usr/local/texlive/2020/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2020/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy5.pfb>
-Output written on Titanic.pdf (20 pages, 1593711 bytes).
+Output written on Titanic.pdf (20 pages, 1596445 bytes).
 
-PDF statistics: 316 PDF objects out of 1000 (max. 8388607)
- 236 compressed objects within 3 object streams
- 74 named destinations out of 1000 (max. 131072)
+PDF statistics: 319 PDF objects out of 1000 (max. 8388607)
+ 239 compressed objects within 3 object streams
+ 75 named destinations out of 1000 (max. 131072)
  128 words of extra memory for PDF output out of 10000 (max. 100000000)
 
