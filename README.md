@@ -1,6 +1,6 @@
 # タイタニックデータセット
 
-| 変数名　|	Definition |	Key|
+| 変数名　|	内容 |キー|
 |:-|:-|:-|
 survival	| 生存状況 |	0 = No, 1 = Yes
 pclass　|	チケットクラス |	1 = 一等, 2 = 二等, 3 = 3等
@@ -11,4 +11,4 @@ parch|	同乗した親や子の数
 ticket|	チッケット番号	|
 fare	| 旅客運賃	|
 cabin	| 船室番号	|
-embarked	| 乗船港	|C = Cherbourg (仏・シェルブール), Q = Queenstown, S = Southampton
+embarked	|乗船港	|C = Cherbourg (仏), Q = Queenstown（愛）, S = Southampton（英）
