@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.5.2)  25 DEC 2020 14:35
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.5.2)  25 DEC 2020 18:12
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Titanic.tex
@@ -1205,38 +1205,38 @@ LaTeX Warning: Label `ux30d2ux30b9ux30c8ux30b0ux30e9ux30e0' multiply defined.
 )
 \openout1 = Titanic.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 377.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 378.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 37
-7.
+8.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 377.
-LaTeX Font Info:    ... okay on input line 377.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 378.
+LaTeX Font Info:    ... okay on input line 378.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 377.
+LaTeX Info: Redefining \selectfont on input line 378.
  ABD: EveryShipout initializing macros
 (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1266,56 +1266,56 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 377.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 377.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 377.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 377.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 377.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 377.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 377.
-LaTeX Font Info:    Redeclaring math accent \check on input line 377.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 377.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 377.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 377.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 377.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 377.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 377.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 377.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 377.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 377.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 377.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 377.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 377.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 377.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 377.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 377.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 377.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 378.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 378.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 378.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 378.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 378.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 378.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 378.
+LaTeX Font Info:    Redeclaring math accent \check on input line 378.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 378.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 378.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 378.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 378.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 378.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 378.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 378.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 378.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 378.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 378.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 378.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 378.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 378.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 378.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 378.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 378.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 377.
+(Font)              `operators' in the math version `normal' on input line 378.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 377.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 378.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 377.
+(Font)              `operators' in the math version `bold' on input line 378.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 377.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 378.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 377.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 378.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 377.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 378.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 377.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 378.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 377.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 378.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 377.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 378.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 377.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 378.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 377.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 378.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 377.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 378.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 377.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 378.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -1363,7 +1363,7 @@ Package caption Info: End \AtBeginDocument code.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-Package hyperref Info: Link coloring ON on input line 377.
+Package hyperref Info: Link coloring ON on input line 378.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1377,48 +1377,48 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count335
 )
-LaTeX Info: Redefining \ref on input line 377.
-LaTeX Info: Redefining \pageref on input line 377.
-LaTeX Info: Redefining \nameref on input line 377.
+LaTeX Info: Redefining \ref on input line 378.
+LaTeX Info: Redefining \pageref on input line 378.
+LaTeX Info: Redefining \nameref on input line 378.
  (./Titanic.out) (./Titanic.out)
 \@outlinefile=\write7
 
 \openout7 = Titanic.out
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 15.97903pt on input line 379.
+(Font)              scaled to size 15.97903pt on input line 380.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 15.97903pt on input line 379.
+(Font)              scaled to size 15.97903pt on input line 380.
 LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <17.28> not available
-(Font)              Font shape `JT3/gt/m/n' tried instead on input line 379.
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 380.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 17.50179pt on input line 379.
+(Font)              scaled to size 17.50179pt on input line 380.
 LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <17.28> not available
-(Font)              Font shape `JY3/gt/m/n' tried instead on input line 379.
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 380.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 17.50179pt on input line 379.
+(Font)              scaled to size 17.50179pt on input line 380.
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 379.
+(Font)              scaled to size 11.09656pt on input line 380.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 379.
-LaTeX Font Info:    Calculating math sizes for size <10.95593> on input line 379
+(Font)              scaled to size 11.09656pt on input line 380.
+LaTeX Font Info:    Calculating math sizes for size <10.95593> on input line 380
 .
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 7.76753pt on input line 379.
+(Font)              scaled to size 7.76753pt on input line 380.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 5.54828pt on input line 379.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 379.
+(Font)              scaled to size 5.54828pt on input line 380.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 380.
 
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 379.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 380.
 
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 379
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 380
 .
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/jknapltx/ursfs.fd
@@ -1519,7 +1519,7 @@ Package luatex.def Info: output_5_0.jpg  used on input line 408.
 <ship.jpg, id=92, 976.64874pt x 604.2575pt>
 File: ship.jpg Graphic file (type jpg)
 <use ship.jpg>
-Package luatex.def Info: ship.jpg  used on input line 418.
+Package luatex.def Info: ship.jpg  used on input line 417.
 (luatex.def)             Requested size: 976.64636pt x 604.25603pt.
 [2<./output_5_0.jpg><./ship.jpg>]
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
@@ -1592,37 +1592,47 @@ File: output_62_0.png Graphic file (type png)
 Package luatex.def Info: output_62_0.png  used on input line 1008.
 (luatex.def)             Requested size: 530.98244pt x 366.36784pt.
  [14<./output_60_0.png>]
-<output_63_0.png, id=205, 530.98375pt x 412.54124pt>
+<output_63_0.png, id=205, 532.99126pt x 366.36874pt>
 File: output_63_0.png Graphic file (type png)
 <use output_63_0.png>
 Package luatex.def Info: output_63_0.png  used on input line 1026.
-(luatex.def)             Requested size: 530.98244pt x 412.54024pt.
+(luatex.def)             Requested size: 532.98996pt x 366.36784pt.
 
 [15<./output_62_0.png>]
-<output_65_0.png, id=211, 816.04875pt x 738.76pt>
+<output_64_0.png, id=211, 754.82pt x 426.59375pt>
+File: output_64_0.png Graphic file (type png)
+<use output_64_0.png>
+Package luatex.def Info: output_64_0.png  used on input line 1044.
+(luatex.def)             Requested size: 754.81818pt x 426.5927pt.
+ [16<./output_63_0.png><./output_64_0.png>]
+<output_65_0.png, id=218, 757.83125pt x 426.59375pt>
 File: output_65_0.png Graphic file (type png)
 <use output_65_0.png>
-Package luatex.def Info: output_65_0.png  used on input line 1043.
-(luatex.def)             Requested size: 816.04677pt x 738.75818pt.
- [16<./output_63_0.png>]
-<output_67_0.png, id=219, 491.8375pt x 391.4625pt>
+Package luatex.def Info: output_65_0.png  used on input line 1062.
+(luatex.def)             Requested size: 757.8294pt x 426.5927pt.
+<output_67_0.png, id=219, 816.04875pt x 738.76pt>
 File: output_67_0.png Graphic file (type png)
 <use output_67_0.png>
-Package luatex.def Info: output_67_0.png  used on input line 1062.
-(luatex.def)             Requested size: 491.83629pt x 391.46153pt.
+Package luatex.def Info: output_67_0.png  used on input line 1079.
+(luatex.def)             Requested size: 816.04677pt x 738.75818pt.
  [17<./output_65_0.png>]
-<newplot.png, id=227, 702.625pt x 451.6875pt>
+<output_69_0.png, id=227, 491.8375pt x 391.4625pt>
+File: output_69_0.png Graphic file (type png)
+<use output_69_0.png>
+Package luatex.def Info: output_69_0.png  used on input line 1098.
+(luatex.def)             Requested size: 491.83629pt x 391.46153pt.
+ [18<./output_67_0.png>]
+<newplot.png, id=235, 702.625pt x 451.6875pt>
 File: newplot.png Graphic file (type png)
 <use newplot.png>
-Package luatex.def Info: newplot.png  used on input line 1087.
+Package luatex.def Info: newplot.png  used on input line 1123.
 (luatex.def)             Requested size: 702.62328pt x 451.68639pt.
-
-[18<./output_67_0.png>] [19<./newplot.png>] [20]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1110.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1110.
+ [19<./output_69_0.png>] [20<./newplot.png>] [21]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1146.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1146.
  (./Titanic.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1110.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1110.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1146.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1146.
 Package rerunfilecheck Info: File `Titanic.out' has not changed.
 (rerunfilecheck)             Checksum: 717CEE63F6758FB7575143C82BBDA181;1299.
 
@@ -1636,15 +1646,15 @@ LaTeX Warning: There were multiply-defined labels.
 )
 
 Here is how much of LuaTeX's memory you used:
- 28688 strings out of 481089
- 932674,953878 words of node,token memory allocated
- 25326 words of node memory still in use:
-   10 hlist, 2 vlist, 5 rule, 3 glue, 269 kern, 1 glyph, 6872 attribute, 1764 gl
-ue_spec, 398 attribute_list, 2 write, 92 user_defined nodes
-   avail lists: 1:31,2:172734,3:2772,4:27842,5:6550,6:100,7:20513,8:44,9:10927,1
-0:60,11:2532
- 44904 multiletter control sequences out of 65536+600000
- 114 fonts using 77054635 bytes
+ 28709 strings out of 481089
+ 932704,953878 words of node,token memory allocated
+ 26011 words of node memory still in use:
+   10 hlist, 2 vlist, 5 rule, 4 glue, 271 kern, 1 glyph, 6981 attribute, 1848 gl
+ue_spec, 405 attribute_list, 2 write, 96 user_defined nodes
+   avail lists: 1:41,2:167118,3:2664,4:26650,5:6140,6:100,7:19745,8:44,9:10495,1
+0:60,11:2424
+ 44916 multiletter control sequences out of 65536+600000
+ 114 fonts using 77059755 bytes
  71i,7n,99p,1192b,642s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono10-italic.otf
 ></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmonolt10-bold.ot
@@ -1658,10 +1668,10 @@ blic/lm/lmroman12-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype
 /public/haranoaji/HaranoAjiGothic-Medium.otf></usr/local/texlive/2020/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2020/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy5.pfb>
-Output written on Titanic.pdf (20 pages, 1596445 bytes).
+Output written on Titanic.pdf (21 pages, 1638429 bytes).
 
-PDF statistics: 319 PDF objects out of 1000 (max. 8388607)
- 239 compressed objects within 3 object streams
- 75 named destinations out of 1000 (max. 131072)
+PDF statistics: 328 PDF objects out of 1000 (max. 8388607)
+ 243 compressed objects within 3 object streams
+ 76 named destinations out of 1000 (max. 131072)
  128 words of extra memory for PDF output out of 10000 (max. 100000000)
 

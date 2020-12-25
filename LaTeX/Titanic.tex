@@ -370,9 +370,10 @@
     
     \geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in}
     
-\title{\textbf{タイタニック号データセット} }
-\date{December, 2020}
     
+    
+    \title{\textbf{タイタニック号データセット} }
+\date{December, 2020}
 
 \begin{document}
     
@@ -380,9 +381,8 @@
     
     
 
-    
 
-\begin{abstract}
+    \begin{abstract}
 図表やグラフによるデータの整理について学びながら、タイタニック号乗船者の生死を分けた要因について考察してみましょう。
 \end{abstract}
 
@@ -406,8 +406,7 @@
     
     \begin{center}
     \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{output_5_0.jpg}
-    \end{center}
-    
+    \end{center}    
 
     \href{https://ja.wikipedia.org/wiki/\%E3\%82\%BF\%E3\%82\%A4\%E3\%82\%BF\%E3\%83\%8B\%E3\%83\%83\%E3\%82\%AF_(\%E5\%AE\%A2\%E8\%88\%B9)}{タイタニック
 (客船)について}
@@ -423,7 +422,8 @@
     \hypertarget{ux30bfux30a4ux30bfux30cbux30c3ux30afux53f7ux30c7ux30fcux30bfux30bbux30c3ux30c8}{%
 \section{タイタニック号データセット}\label{ux30bfux30a4ux30bfux30cbux30c3ux30afux53f7ux30c7ux30fcux30bfux30bbux30c3ux30c8}}
 
-    ＊データ提供元：ヴァンダービルト大学生物統計学科\cite{vanderbilt}、kaggle\cite{kaggle}、 seaborn\cite{seaborn}など。
+    ＊データ提供元：ヴァンダービルト大学生物統計学科\cite{vanderbilt}、kaggle\cite{kaggle}、
+seaborn\cite{seaborn}など。
 
     \hypertarget{ux5909ux6570}{%
 \subsection{変数}\label{ux5909ux6570}}
@@ -473,7 +473,7 @@ Southampton（英）\tabularnewline
             \begin{tcolorbox}[breakable, size=fbox, boxrule=.5pt, pad at break*=1mm, opacityfill=0]
 \prompt{Out}{outcolor}{2}{\boxspacing}
 \begin{Verbatim}[commandchars=\\\{\}]
-<folium.folium.Map at 0x7fe478da1050>
+<folium.folium.Map at 0x7fb408ec8610>
 \end{Verbatim}
 \end{tcolorbox}
         
@@ -635,31 +635,31 @@ memory usage: 90.6+ KB
             \begin{tcolorbox}[breakable, size=fbox, boxrule=.5pt, pad at break*=1mm, opacityfill=0]
 \prompt{Out}{outcolor}{11}{\boxspacing}
 \begin{Verbatim}[commandchars=\\\{\}]
-        PassengerId    Survived      Pclass                           Name  \textbackslash{}
-count    891.000000  891.000000  891.000000                            891
-unique          NaN         NaN         NaN                            891
-top             NaN         NaN         NaN  Chambers, Mr. Norman Campbell
-freq            NaN         NaN         NaN                              1
-mean     446.000000    0.383838    2.308642                            NaN
-std      257.353842    0.486592    0.836071                            NaN
-min        1.000000    0.000000    1.000000                            NaN
-25\%      223.500000    0.000000    2.000000                            NaN
-50\%      446.000000    0.000000    3.000000                            NaN
-75\%      668.500000    1.000000    3.000000                            NaN
-max      891.000000    1.000000    3.000000                            NaN
+        PassengerId    Survived      Pclass                         Name  \textbackslash{}
+count    891.000000  891.000000  891.000000                          891
+unique          NaN         NaN         NaN                          891
+top             NaN         NaN         NaN  Lindqvist, Mr. Eino William
+freq            NaN         NaN         NaN                            1
+mean     446.000000    0.383838    2.308642                          NaN
+std      257.353842    0.486592    0.836071                          NaN
+min        1.000000    0.000000    1.000000                          NaN
+25\%      223.500000    0.000000    2.000000                          NaN
+50\%      446.000000    0.000000    3.000000                          NaN
+75\%      668.500000    1.000000    3.000000                          NaN
+max      891.000000    1.000000    3.000000                          NaN
 
-         Sex         Age       SibSp       Parch  Ticket        Fare    Cabin  \textbackslash{}
-count    891  714.000000  891.000000  891.000000     891  891.000000      204
-unique     2         NaN         NaN         NaN     681         NaN      147
-top     male         NaN         NaN         NaN  347082         NaN  B96 B98
-freq     577         NaN         NaN         NaN       7         NaN        4
-mean     NaN   29.699118    0.523008    0.381594     NaN   32.204208      NaN
-std      NaN   14.526497    1.102743    0.806057     NaN   49.693429      NaN
-min      NaN    0.420000    0.000000    0.000000     NaN    0.000000      NaN
-25\%      NaN   20.125000    0.000000    0.000000     NaN    7.910400      NaN
-50\%      NaN   28.000000    0.000000    0.000000     NaN   14.454200      NaN
-75\%      NaN   38.000000    1.000000    0.000000     NaN   31.000000      NaN
-max      NaN   80.000000    8.000000    6.000000     NaN  512.329200      NaN
+         Sex         Age       SibSp       Parch  Ticket        Fare Cabin  \textbackslash{}
+count    891  714.000000  891.000000  891.000000     891  891.000000   204
+unique     2         NaN         NaN         NaN     681         NaN   147
+top     male         NaN         NaN         NaN  347082         NaN    G6
+freq     577         NaN         NaN         NaN       7         NaN     4
+mean     NaN   29.699118    0.523008    0.381594     NaN   32.204208   NaN
+std      NaN   14.526497    1.102743    0.806057     NaN   49.693429   NaN
+min      NaN    0.420000    0.000000    0.000000     NaN    0.000000   NaN
+25\%      NaN   20.125000    0.000000    0.000000     NaN    7.910400   NaN
+50\%      NaN   28.000000    0.000000    0.000000     NaN   14.454200   NaN
+75\%      NaN   38.000000    1.000000    0.000000     NaN   31.000000   NaN
+max      NaN   80.000000    8.000000    6.000000     NaN  512.329200   NaN
 
        Embarked Title
 count       889   891
@@ -988,8 +988,8 @@ max     80.0    8.0    6.0  512.0
     \end{center}
     { \hspace*{\fill} \\}
     
-    \hypertarget{ux7bb1ux30d2ux30b2ux56f3}{%
-\subsubsection{箱ヒゲ図}\label{ux7bb1ux30d2ux30b2ux56f3}}
+    \hypertarget{ux7bb1ux30d2ux30b2ux56f3ux3068ux30d0ux30a4ux30aaux30eaux30f3ux56f3}{%
+\subsubsection{箱ヒゲ図とバイオリン図}\label{ux7bb1ux30d2ux30b2ux56f3ux3068ux30d0ux30a4ux30aaux30eaux30f3ux56f3}}
 
     \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \prompt{In}{incolor}{27}{\boxspacing}
@@ -1013,11 +1013,11 @@ max     80.0    8.0    6.0  512.0
 \prompt{In}{incolor}{28}{\boxspacing}
 \begin{Verbatim}[commandchars=\\\{\}]
 \PY{n}{fig}\PY{p}{,} \PY{n}{ax} \PY{o}{=} \PY{n}{plt}\PY{o}{.}\PY{n}{subplots}\PY{p}{(}\PY{n}{figsize}\PY{o}{=}\PY{p}{(}\PY{l+m+mi}{8}\PY{p}{,} \PY{l+m+mi}{5}\PY{p}{)}\PY{p}{)}
-\PY{n}{sns}\PY{o}{.}\PY{n}{boxplot}\PY{p}{(}\PY{n}{x}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{Title}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{y}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{Fare}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{data}\PY{o}{=}\PY{n}{df}\PY{p}{,} \PY{n}{ax}\PY{o}{=}\PY{n}{ax}\PY{p}{)}
+\PY{n}{sns}\PY{o}{.}\PY{n}{violinplot}\PY{p}{(}\PY{n}{x}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{Embarked}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{y}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{Fare}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{data}\PY{o}{=}\PY{n}{df}\PY{p}{,} \PY{n}{ax}\PY{o}{=}\PY{n}{ax}\PY{p}{)}
 \PY{n}{labels} \PY{o}{=} \PY{n}{ax}\PY{o}{.}\PY{n}{get\PYZus{}xticklabels}\PY{p}{(}\PY{p}{)}
 \PY{n}{ax}\PY{o}{.}\PY{n}{set\PYZus{}xticklabels}\PY{p}{(}\PY{n}{labels}\PY{p}{,} \PY{n}{rotation}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{vertical}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{fontsize}\PY{o}{=}\PY{l+m+mi}{12}\PY{p}{)}
-\PY{n}{ax}\PY{o}{.}\PY{n}{set\PYZus{}yscale}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{log}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
-\PY{n}{plt}\PY{o}{.}\PY{n}{suptitle}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{敬称に対する旅客運賃の箱ヒゲ図}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{fontsize}\PY{o}{=}\PY{l+m+mi}{20}\PY{p}{)}
+\PY{c+c1}{\PYZsh{} ax.set\PYZus{}yscale(\PYZdq{}log\PYZdq{})}
+\PY{n}{plt}\PY{o}{.}\PY{n}{suptitle}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{乗船港に対する旅客運賃のバイオリン図}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{fontsize}\PY{o}{=}\PY{l+m+mi}{20}\PY{p}{)}
 \PY{n}{plt}\PY{o}{.}\PY{n}{show}\PY{p}{(}\PY{p}{)}
 \end{Verbatim}
 \end{tcolorbox}
@@ -1027,14 +1027,33 @@ max     80.0    8.0    6.0  512.0
     \end{center}
     { \hspace*{\fill} \\}
     
-    \hypertarget{ux6563ux5e03ux56f3}{%
-\subsubsection{散布図}\label{ux6563ux5e03ux56f3}}
-
     \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \prompt{In}{incolor}{29}{\boxspacing}
 \begin{Verbatim}[commandchars=\\\{\}]
-\PY{n}{sns}\PY{o}{.}\PY{n}{pairplot}\PY{p}{(}\PY{n}{df}\PY{p}{,} \PY{n}{hue}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{Survived}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{n}{height}\PY{o}{=}\PY{l+m+mf}{2.5}\PY{p}{)}
-\PY{n}{plt}\PY{o}{.}\PY{n}{suptitle}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{量的変数の散布図}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{fontsize}\PY{o}{=}\PY{l+m+mi}{20}\PY{p}{,} \PY{n}{y}\PY{o}{=}\PY{l+m+mf}{1.02}\PY{p}{)}
+\PY{n}{fig}\PY{p}{,} \PY{n}{ax} \PY{o}{=} \PY{n}{plt}\PY{o}{.}\PY{n}{subplots}\PY{p}{(}\PY{n}{figsize}\PY{o}{=}\PY{p}{(}\PY{l+m+mi}{12}\PY{p}{,} \PY{l+m+mi}{5}\PY{p}{)}\PY{p}{)}
+\PY{n}{sns}\PY{o}{.}\PY{n}{boxplot}\PY{p}{(}\PY{n}{x}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{Title}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{y}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{Fare}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{data}\PY{o}{=}\PY{n}{df}\PY{p}{,} \PY{n}{ax}\PY{o}{=}\PY{n}{ax}\PY{p}{)}
+\PY{n}{labels} \PY{o}{=} \PY{n}{ax}\PY{o}{.}\PY{n}{get\PYZus{}xticklabels}\PY{p}{(}\PY{p}{)}
+\PY{n}{ax}\PY{o}{.}\PY{n}{set\PYZus{}xticklabels}\PY{p}{(}\PY{n}{labels}\PY{p}{,} \PY{n}{rotation}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{vertical}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{fontsize}\PY{o}{=}\PY{l+m+mi}{15}\PY{p}{)}
+\PY{n}{ax}\PY{o}{.}\PY{n}{set\PYZus{}yscale}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{log}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+\PY{n}{plt}\PY{o}{.}\PY{n}{suptitle}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{敬称に対する旅客運賃の箱ヒゲ図}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{fontsize}\PY{o}{=}\PY{l+m+mi}{20}\PY{p}{)}
+\PY{n}{plt}\PY{o}{.}\PY{n}{show}\PY{p}{(}\PY{p}{)}
+\end{Verbatim}
+\end{tcolorbox}
+
+    \begin{center}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{output_64_0.png}
+    \end{center}
+    { \hspace*{\fill} \\}
+    
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+\prompt{In}{incolor}{30}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n}{fig}\PY{p}{,} \PY{n}{ax} \PY{o}{=} \PY{n}{plt}\PY{o}{.}\PY{n}{subplots}\PY{p}{(}\PY{n}{figsize}\PY{o}{=}\PY{p}{(}\PY{l+m+mi}{12}\PY{p}{,} \PY{l+m+mi}{5}\PY{p}{)}\PY{p}{)}
+\PY{n}{sns}\PY{o}{.}\PY{n}{violinplot}\PY{p}{(}\PY{n}{x}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{Title}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{y}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{Fare}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{data}\PY{o}{=}\PY{n}{df}\PY{p}{,} \PY{n}{ax}\PY{o}{=}\PY{n}{ax}\PY{p}{)}
+\PY{n}{labels} \PY{o}{=} \PY{n}{ax}\PY{o}{.}\PY{n}{get\PYZus{}xticklabels}\PY{p}{(}\PY{p}{)}
+\PY{n}{ax}\PY{o}{.}\PY{n}{set\PYZus{}xticklabels}\PY{p}{(}\PY{n}{labels}\PY{p}{,} \PY{n}{rotation}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{vertical}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{fontsize}\PY{o}{=}\PY{l+m+mi}{15}\PY{p}{)}
+\PY{c+c1}{\PYZsh{}ax.set\PYZus{}yscale(\PYZdq{}log\PYZdq{})}
+\PY{n}{plt}\PY{o}{.}\PY{n}{suptitle}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{敬称に対する旅客運賃のバイオリン図}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{fontsize}\PY{o}{=}\PY{l+m+mi}{20}\PY{p}{)}
 \PY{n}{plt}\PY{o}{.}\PY{n}{show}\PY{p}{(}\PY{p}{)}
 \end{Verbatim}
 \end{tcolorbox}
@@ -1044,11 +1063,28 @@ max     80.0    8.0    6.0  512.0
     \end{center}
     { \hspace*{\fill} \\}
     
+    \hypertarget{ux6563ux5e03ux56f3}{%
+\subsubsection{散布図}\label{ux6563ux5e03ux56f3}}
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+\prompt{In}{incolor}{31}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n}{sns}\PY{o}{.}\PY{n}{pairplot}\PY{p}{(}\PY{n}{df}\PY{p}{,} \PY{n}{hue}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{Survived}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{n}{height}\PY{o}{=}\PY{l+m+mf}{2.5}\PY{p}{)}
+\PY{n}{plt}\PY{o}{.}\PY{n}{suptitle}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{量的変数の散布図}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{fontsize}\PY{o}{=}\PY{l+m+mi}{20}\PY{p}{,} \PY{n}{y}\PY{o}{=}\PY{l+m+mf}{1.02}\PY{p}{)}
+\PY{n}{plt}\PY{o}{.}\PY{n}{show}\PY{p}{(}\PY{p}{)}
+\end{Verbatim}
+\end{tcolorbox}
+
+    \begin{center}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{output_67_0.png}
+    \end{center}
+    { \hspace*{\fill} \\}
+    
     \hypertarget{ux76f8ux95a2ux4fc2ux6570ux306eux30d2ux30fcux30c8ux30deux30c3ux30d7}{%
 \subsubsection{相関係数のヒートマップ}\label{ux76f8ux95a2ux4fc2ux6570ux306eux30d2ux30fcux30c8ux30deux30c3ux30d7}}
 
     \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
-\prompt{In}{incolor}{30}{\boxspacing}
+\prompt{In}{incolor}{32}{\boxspacing}
 \begin{Verbatim}[commandchars=\\\{\}]
 \PY{n}{corr} \PY{o}{=} \PY{n}{df}\PY{o}{.}\PY{n}{corr}\PY{p}{(}\PY{p}{)}
 \PY{n}{plt}\PY{o}{.}\PY{n}{subplots}\PY{p}{(}\PY{n}{figsize}\PY{o}{=}\PY{p}{(}\PY{l+m+mi}{8}\PY{p}{,} \PY{l+m+mi}{6}\PY{p}{)}\PY{p}{)}
@@ -1059,7 +1095,7 @@ max     80.0    8.0    6.0  512.0
 \end{tcolorbox}
 
     \begin{center}
-    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{output_67_0.png}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{output_69_0.png}
     \end{center}
     { \hspace*{\fill} \\}
     
@@ -1067,7 +1103,7 @@ max     80.0    8.0    6.0  512.0
 \subsubsection{並行座標プロット}\label{ux4e26ux884cux5ea7ux6a19ux30d7ux30edux30c3ux30c8}}
 
     \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
-\prompt{In}{incolor}{31}{\boxspacing}
+\prompt{In}{incolor}{33}{\boxspacing}
 \begin{Verbatim}[commandchars=\\\{\}]
 \PY{n}{df}\PY{p}{[}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{Survived}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{Pclass}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{]} \PY{o}{=} \PY{n}{df}\PY{p}{[}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{Survived}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{Pclass}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{]}\PY{o}{.}\PY{n}{astype}\PY{p}{(}\PY{n+nb}{int}\PY{p}{)}
 \PY{k+kn}{import} \PY{n+nn}{plotly}\PY{n+nn}{.}\PY{n+nn}{express} \PY{k}{as} \PY{n+nn}{px}
